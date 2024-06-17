@@ -1,6 +1,8 @@
 # netflix-landing-clone
 This project is a clone for the Netflix landing webpage (desktop + mobile); 
 
+https://ruby-cho.github.io/netflix-landing-clone/
+
 ### References
 
 - Title: [How To Make Netflix Website Clone Using HTML And CSS](https://youtu.be/Tgat3-prVv4?feature=shared)
